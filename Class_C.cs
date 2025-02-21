@@ -12,5 +12,9 @@ namespace School_Tutorial_Teacher
         {
             return Math.Sqrt(a);
         }
+        public double CubeRoot(double a)
+        {
+            return a * a;
+        }
     }
 }
