@@ -14,8 +14,9 @@ namespace School_Tutorial_Teacher
         }
         public double CubeRoot(double a)
         {
-            return a * a;
+            return Math.Cbrt(a);
         }
+
         //programist 2 pravyat CubeRoot
         //...
 
